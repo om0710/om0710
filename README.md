@@ -27,6 +27,8 @@ AI Engineering Student • Building AI Agents, RAG Systems & Machine Learning Pr
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### AI / Machine Learning
 ![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge)
@@ -81,11 +83,33 @@ Conversational AI chatbot with persistent memory, multi-thread conversations, to
 
 ---
 
+## 📊 Contribution Graph
+
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=om0710&theme=tokyonight&hide_border=true" alt="Om's Contribution Graph" />
+</p>
+
+---
+
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/om-bansal
-- 💻 GitHub: https://github.com/om0710
-- 🌐 Portfolio: https://my-portfolio-72nj.vercel.app/
+<p align="left">
+  <a href="https://www.linkedin.com/in/om-bansal" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn" />
+  </a>
+  <a href="mailto:ombansal221@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" alt="Gmail" />
+  </a>
+  <a href="https://github.com/om0710" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub" />
+  </a>
+</p>
+
+---
+
+## 💡 Quote
+
+> "Consistency beats intensity."
 
 ---
 
