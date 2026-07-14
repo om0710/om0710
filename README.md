@@ -94,7 +94,7 @@ Conversational AI chatbot with persistent memory, multi-thread conversations, to
 ## 📫 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/om-bansal" target="_blank">
+  <a href="https://www.linkedin.com/in/om-bansal-78420430a/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn" />
   </a>
   <a href="mailto:ombansal221@gmail.com" target="_blank">
